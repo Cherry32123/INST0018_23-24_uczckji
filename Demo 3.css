@@ -1,0 +1,19 @@
+h1 {
+    background-color:yellow;
+}
+
+h2{
+    /* background-color:red; */
+    color:green;
+    font-weight:bold;
+    font-style:italic;
+    font-family:Arial;
+
+}
+
+/*This is the style for all <h3>s */
+
+h3{
+    background-color:navy;
+
+}
